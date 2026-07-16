@@ -2,24 +2,6 @@
 
 Spendr is a full-stack expense management application built with **Vite**, **React**, **Tailwind CSS**, **Bun**, and **Prisma**. It features a modern frontend, a Bun-powered backend, and a Prisma-based database layer designed for scalability and maintainability.
 
----
-
-## Tech Stack
-
-### Frontend
-- React
-- Vite
-- Tailwind CSS
-- TypeScript
-
-### Backend
-- Bun
-
-### Database
-- Prisma ORM
-
----
-
 ## Project Structure
 
 ```
