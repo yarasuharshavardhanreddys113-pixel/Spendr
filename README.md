@@ -8,28 +8,28 @@ Spendr is a full-stack expense management application built with **Vite**, **Rea
 Spendr/
 │
 ├── src/
-│   ├── components/          # Feature-specific React components
-│   ├── components/ui/       # Reusable UI components
-│   ├── generated/           # Auto-generated SDKs, routes, and types
-│   ├── lib/                 # Shared utilities and helper functions
-│   ├── App.tsx              # Root application component
-│   ├── main.tsx             # React entry point
-│   └── index.css            # Global styles
+│   ├── components/          
+│   ├── components/ui/       
+│   ├── generated/           
+│   ├── lib/                 
+│   ├── App.tsx              
+│   ├── main.tsx            
+│   └── index.css            
 │
 ├── prisma/
-│   └── schema.prisma        # Database schema
+│   └── schema.prisma        
 │
-├── scripts/                 # Internal automation and generation scripts
+├── scripts/                 
 │
-├── server.tsx               # Bun server entry point
-├── custom-routes.ts         # Custom server routes
+├── server.tsx               
+├── custom-routes.ts         
 │
-├── package.json             # Project dependencies and scripts
-├── vite.config.ts           # Vite configuration
-├── tsconfig.json            # TypeScript configuration
-├── postcss.config.mjs       # Tailwind/PostCSS configuration
-├── prisma.config.ts         # Prisma configuration
-└── shogo.config.json        # Shogo generation settings
+├── package.json             
+├── vite.config.ts           
+├── tsconfig.json            
+├── postcss.config.mjs       
+├── prisma.config.ts         
+└── shogo.config.json        
 ```
 
 ---
